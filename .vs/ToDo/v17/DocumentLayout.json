@@ -3,16 +3,28 @@
   "WorkspaceRootPath": "D:\\Visual studio\\ToDo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DDD7DA18-087A-4DB6-9299-351F08CF945A}|ToDo\\ToDo.csproj|d:\\visual studio\\todo\\todo\\models\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DDD7DA18-087A-4DB6-9299-351F08CF945A}|ToDo\\ToDo.csproj|solutionrelative:todo\\models\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DDD7DA18-087A-4DB6-9299-351F08CF945A}|ToDo\\ToDo.csproj|d:\\visual studio\\todo\\todo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDD7DA18-087A-4DB6-9299-351F08CF945A}|ToDo\\ToDo.csproj|solutionrelative:todo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DDD7DA18-087A-4DB6-9299-351F08CF945A}|ToDo\\ToDo.csproj|d:\\visual studio\\todo\\todo\\context\\tododb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DDD7DA18-087A-4DB6-9299-351F08CF945A}|ToDo\\ToDo.csproj|solutionrelative:todo\\context\\tododb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DDD7DA18-087A-4DB6-9299-351F08CF945A}|ToDo\\ToDo.csproj|d:\\visual studio\\todo\\todo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DDD7DA18-087A-4DB6-9299-351F08CF945A}|ToDo\\ToDo.csproj|solutionrelative:todo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DDD7DA18-087A-4DB6-9299-351F08CF945A}|ToDo\\ToDo.csproj|d:\\visual studio\\todo\\todo\\models\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDD7DA18-087A-4DB6-9299-351F08CF945A}|ToDo\\ToDo.csproj|solutionrelative:todo\\models\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDD7DA18-087A-4DB6-9299-351F08CF945A}|ToDo\\ToDo.csproj|d:\\visual studio\\todo\\todo\\todo.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{DDD7DA18-087A-4DB6-9299-351F08CF945A}|ToDo\\ToDo.csproj|solutionrelative:todo\\todo.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDD7DA18-087A-4DB6-9299-351F08CF945A}|ToDo\\ToDo.csproj|d:\\visual studio\\todo\\todo\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DDD7DA18-087A-4DB6-9299-351F08CF945A}|ToDo\\ToDo.csproj|solutionrelative:todo\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDD7DA18-087A-4DB6-9299-351F08CF945A}|ToDo\\ToDo.csproj|d:\\visual studio\\todo\\todo\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{DDD7DA18-087A-4DB6-9299-351F08CF945A}|ToDo\\ToDo.csproj|solutionrelative:todo\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,8 +34,34 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 7,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "D:\\Visual studio\\ToDo\\ToDo\\Dockerfile",
+              "RelativeDocumentMoniker": "ToDo\\Dockerfile",
+              "ToolTip": "D:\\Visual studio\\ToDo\\ToDo\\Dockerfile",
+              "RelativeToolTip": "ToDo\\Dockerfile",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-08T11:36:40.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Visual studio\\ToDo\\ToDo\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "ToDo\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\Visual studio\\ToDo\\ToDo\\Properties\\launchSettings.json",
+              "RelativeToolTip": "ToDo\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-08T11:33:18.635Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
@@ -34,13 +72,25 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
+              "Title": "ToDo",
+              "DocumentMoniker": "D:\\Visual studio\\ToDo\\ToDo\\ToDo.csproj",
+              "RelativeDocumentMoniker": "ToDo\\ToDo.csproj",
+              "ToolTip": "D:\\Visual studio\\ToDo\\ToDo\\ToDo.csproj",
+              "RelativeToolTip": "ToDo\\ToDo.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-08T11:31:59.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "ToDoItem.cs",
               "DocumentMoniker": "D:\\Visual studio\\ToDo\\ToDo\\Models\\ToDoItem.cs",
               "RelativeDocumentMoniker": "ToDo\\Models\\ToDoItem.cs",
               "ToolTip": "D:\\Visual studio\\ToDo\\ToDo\\Models\\ToDoItem.cs",
               "RelativeToolTip": "ToDo\\Models\\ToDoItem.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-08T09:31:43.227Z",
               "EditorCaption": ""
@@ -60,13 +110,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Visual studio\\ToDo\\ToDo\\Program.cs",
               "RelativeDocumentMoniker": "ToDo\\Program.cs",
               "ToolTip": "D:\\Visual studio\\ToDo\\ToDo\\Program.cs",
               "RelativeToolTip": "ToDo\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABMAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-08T09:14:59.138Z",
               "EditorCaption": ""

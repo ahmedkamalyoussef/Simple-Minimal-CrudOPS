@@ -23,3 +23,15 @@ D:\Visual studio\ToDo\ToDo\obj\Debug\net8.0\refint\ToDo.dll
 D:\Visual studio\ToDo\ToDo\obj\Debug\net8.0\ToDo.pdb
 D:\Visual studio\ToDo\ToDo\obj\Debug\net8.0\ToDo.genruntimeconfig.cache
 D:\Visual studio\ToDo\ToDo\obj\Debug\net8.0\ref\ToDo.dll
+D:\Visual studio\ToDo\ToDo\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Visual studio\ToDo\ToDo\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Visual studio\ToDo\ToDo\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll
+D:\Visual studio\ToDo\ToDo\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Visual studio\ToDo\ToDo\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Visual studio\ToDo\ToDo\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Visual studio\ToDo\ToDo\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\Visual studio\ToDo\ToDo\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Visual studio\ToDo\ToDo\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\Visual studio\ToDo\ToDo\obj\Debug\net8.0\ToDo.csproj.AssemblyReference.cache
+D:\Visual studio\ToDo\ToDo\obj\Debug\net8.0\ToDo.sourcelink.json
+D:\Visual studio\ToDo\ToDo\obj\Debug\net8.0\ToDo.csproj.Up2Date
